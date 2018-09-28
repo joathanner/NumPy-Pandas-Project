@@ -1,2 +1,1 @@
-# Pandas-Pandas-Pandas
-Pandas Project
+# Pandas Project
